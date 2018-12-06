@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data_description_chart id="chart">
+	<data>
+		<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1126</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>150</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>320</number>
+	<dataname>Speed(mph)</dataname>
+	<number>95</number>
+	</data>
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1122</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>140</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>300</number>
+	<dataname>Speed(mph)</dataname>
+	<number>93</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>698</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>155</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>221</number>
+	<dataname>Speed(mph)</dataname>
+	<number>77</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>454</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>140</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>215</number>
+	<dataname>Speed(mph)</dataname>
+	<number>80</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>397</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>135</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>210</number>
+	<dataname>Speed(mph)</dataname>
+	<number>73</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>350</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>213</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>211</number>
+	<dataname>Speed(mph)</dataname>
+	<number>75</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>330</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>180</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>215</number>
+	<dataname>Speed(mph)</dataname>
+	<number>80</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>329</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>117</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>228</number>
+	<dataname>Speed(mph)</dataname>
+	<number>85</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>306</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>150</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>100</number>
+	<dataname>Speed(mph)</dataname>
+	<number>70</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>286</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>180</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>150</number>
+	<dataname>Speed(mph)</dataname>
+	<number>70</number>
+	</data>
+	
+</data_description_chart> 
+
+<data_description_chart class="chart">
+	<data>
+		<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1216</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>150</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>115</number>
+	<dataname>Speed(mph)</dataname>
+	<number>60</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1144</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>120</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>72</number>
+	<dataname>Speed(mph)</dataname>
+	<number>45</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1121</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>64</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>176</number>
+	<dataname>Speed(mph)</dataname>
+	<number>70</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>1028</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>165</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>154</number>
+	<dataname>Speed(mph)</dataname>
+	<number>67</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>525</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>150</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>103</number>
+	<dataname>Speed(mph)</dataname>
+	<number>53.7</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>670</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>250</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>141</number>
+	<dataname>Speed(mph)</dataname>
+	<number>64.8</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>641</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>180</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>100</number>
+	<dataname>Speed(mph)</dataname>
+	<number>53.7</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>611</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>87</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>162</number>
+	<dataname>Speed(mph)</dataname>
+	<number>68</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>525</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>150</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>103</number>
+	<dataname>Speed(mph)</dataname>
+	<number>53.7</number>
+	</data>
+	
+	<data>
+	<datatitle>Rollercoaster Stats</datatitle>
+	<dataname>Votes</dataname>
+		<number>347</number>
+	<dataname>Duration(sec.)</dataname>
+	<number>140</number>
+	<dataname>Drop(ft.)</dataname>
+	<number>90</number>
+	<dataname>Speed(mph)</dataname>
+	<number>51.1</number>
+	</data>
+	
+</data_description_chart> 
+	
+	
